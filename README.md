@@ -63,3 +63,6 @@ services:
     restart: unless-stopped
 ✅ Resultado Final
 Um servidor de teste de velocidade totalmente funcional, implantado via Docker Compose e acessível publicamente através de um endereço IPv6, validando uma solução completa para um desafio de infraestrutura do mundo real.
+
+<img width="1080" height="2400" alt="unnamed" src="https://github.com/user-attachments/assets/826e9055-276b-4648-b2a7-648955cba5aa" />
+
