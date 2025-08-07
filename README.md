@@ -68,5 +68,6 @@ Um servidor de teste de velocidade totalmente funcional, implantado via Docker C
 
 
 
-<img width="600 height="1200" alt="unnamed" src="https://github.com/user-attachments/assets/826e9055-276b-4648-b2a7-648955cba5aa" />
+<img width="600" height="1200" alt="unnamed" src="https://github.com/user-attachments/assets/11944b41-c94d-447c-a82d-bcb32316b4be" />
+
 
